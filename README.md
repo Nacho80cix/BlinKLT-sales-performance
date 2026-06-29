@@ -10,7 +10,7 @@ The dashboard enables users to easily identify top-performing products, track mo
 
 This project demonstrates my skills in data cleaning, data modeling, DAX calculations, and dashboard design using Power BI, with a focus on turning raw data into meaningful business insights**.
 
-## Busines Problem
+## Business Problem
 
 **the objective of this project was to analyse data to understand revenue patterns, indentify top-performing products and regions, and highlight key treands that influence busines, And also created a dashbord to help regulate sales performance in diffirent category and tiers**.
 
