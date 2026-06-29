@@ -25,7 +25,7 @@ This project demonstrates my skills in data cleaning, data modeling, DAX calcula
 
 ## Conclusion
 
-**this project shows my ability to clean, analyze, and visualize sales data to generate meaningful business insightd**.
+**this project shows my ability to clean, analyze, and visualize sales data to generate meaningful business insight**.
 
 ## Connet with me
 
